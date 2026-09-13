@@ -19,9 +19,8 @@ server plugins, and whatever infrastructure it takes to keep them running.
 
 ### what i'm usually up to
 
-- server-side java, mostly paper/spigot plugins
-- running my own infrastructure: kvm/lxc hosts, workers at the edge, and cheap arm boxes pushed well past their price bracket
-- currently spending most of my time in go
+- maintaining my currently existing projects
+- spending my time in go
 - automating the parts of my setup i've had to do twice
 
 ### elsewhere
