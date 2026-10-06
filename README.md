@@ -27,5 +27,3 @@ server plugins, and whatever infrastructure it takes to keep them running.
 
 - [hny.sh](https://hny.sh)
 - [me@hny.sh](mailto:me@hny.sh)
-
-<sub>most of my work lives in private repos, so this profile looks a lot quieter than it actually is.</sub>
